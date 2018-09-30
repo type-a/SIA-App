@@ -25,16 +25,16 @@ Building Two apps one for the consumer which will be then integrated into KrisSh
 
 ### Application Screenshot
 
-![1](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot1.jpeg)
-![2](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot2.jpeg)
-![3](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot3.jpeg)
-![4](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot4.jpeg)
-![5](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot5.jpeg)
-![6](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot6.jpeg)
-![7](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot7.jpeg)
-![8](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot8.jpeg)
-![9](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot9.jpeg)
-![10](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot10.jpeg)
+![1](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot1.jpeg){:height="50%" width="50%"}
+![2](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot2.jpeg){:height="50%" width="50%"}
+![3](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot3.jpeg){:height="50%" width="50%"}
+![4](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot4.jpeg){:height="50%" width="50%"}
+![5](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot5.jpeg){:height="50%" width="50%"}
+![6](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot6.jpeg){:height="50%" width="50%"}
+![7](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot7.jpeg){:height="50%" width="50%"}
+![8](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot8.jpeg){:height="50%" width="50%"}
+![9](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot9.jpeg){:height="50%" width="50%"}
+![10](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot10.jpeg){:height="50%" width="50%"}
 
 ## Go-to market stratergy
 To have a competitive advantage while integrating seamlessly with online shopping in Krisshop, having an all software product with little or no external support is crucial. 
