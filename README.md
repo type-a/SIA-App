@@ -25,16 +25,16 @@ Building Two apps one for the consumer which will be then integrated into KrisSh
 
 ### Application Screenshot
 
-![1](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot1.jpeg){:height="10%" width="10%"}
-![2](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot2.jpeg){:height="10%" width="10%"}
-![3](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot3.jpeg){:height="10%" width="10%"}
-![4](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot4.jpeg){:height="10%" width="10%"}
-![5](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot5.jpeg){:height="10%" width="10%"}
-![6](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot6.jpeg){:height="10%" width="10%"}
-![7](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot7.jpeg){:height="10%" width="10%"}
-![8](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot8.jpeg){:height="10%" width="10%"}
-![9](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot9.jpeg){:height="10%" width="10%"}
-![10](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot10.jpeg){:height="10%" width="10%"}
+![1](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot1.jpeg =100x20)
+![2](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot2.jpeg =100x20)
+![3](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot3.jpeg =100x20)
+![4](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot4.jpeg =100x20)
+![5](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot5.jpeg =100x20)
+![6](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot6.jpeg =100x20)
+![7](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot7.jpeg =100x20)
+![8](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot8.jpeg =100x20)
+![9](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot9.jpeg =100x20)
+![10](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot10.jpeg =100x20)
 
 ## Go-to market stratergy
 To have a competitive advantage while integrating seamlessly with online shopping in Krisshop, having an all software product with little or no external support is crucial. 
