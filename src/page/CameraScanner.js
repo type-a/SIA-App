@@ -1,52 +1,37 @@
-/**
-* This is the newsletter page
-**/
-
 // React native and others libraries imports
 import React, { Component } from 'react';
-import { Container, View, Icon, Left, Button, Item, Input } from 'native-base';
+import { Alert, AsyncStorage } from 'react-native';
+import { Container, Content, View, Header, Icon, Button, Left, Right, Body, Title, List, ListItem, Thumbnail, Grid, Col } from 'native-base';
 import { Actions } from 'react-native-router-flux';
-
 // Our custom files and classes import
 import Text from '../component/Text';
 import Navbar from '../component/Navbar';
 import Colors from '../Colors';
+import BarcodeScanner from 'react-native-barcode-scanner-google';
 
 export default class CameraScanner extends Component {
-  constructor(props) {
-      super(props);
-      this.state = {
-        email: ''
-      }
-  }
-
-  render() {
+  render()
+  {
     var left = (
-      <Left style={{flex:1}}>
-        <Button transparent onPress={() => Actions.pop()}>
-          <Icon name="ios-close" size={38} style={{fontSize: 38}} />
-        </Button>
-      </Left>
-    );
-    return(
-      <Container style={{backgroundColor: '#fdfdfd'}}>
-          <Navbar left={left} title="ORDERS" />
-            <View style={{flex: 1, justifyContent: 'center', alignItems: 'center', paddingLeft: 50, paddingRight: 50}}>
-              <Item>
-                  <Icon active name='ios-mail-outline' />
-                  <Input placeholder='Your email address' onChangeText={(text) => this.setState({email: text})}/>
-              </Item>
-              <View style={{alignItems: 'center'}}>
-                <Button onPress={() => this.subscribe()} style={{backgroundColor: Colors.navbarBackgroundColor, marginTop: 20}}>
-                  <Text style={{color: '#fdfdfd'}}>Subscribe</Text>
-                </Button>
-              </View>
-            </View>
-      </Container>
-    );
-  }
+        <Left style={{flex:1}}>
+          <Button transparent onPress={() => Actions.pop()}>
+            <Icon name="ios-close" size={38} style={{fontSize: 38}} />
+          </Button>
+        </Left>
+      );
+      return(
+        <Container style={{backgroundColor: '#fdfdfd'}}>
+        <Navbar left={left} title="SCAN IT" />
+        <View style={{flex: 1}}>
+          <BarcodeScanner
+              style={{flex: 1}}
+              onBarcodeRead={({data, type}) => {
+                  alert("Your check in is successful , your order is checked in  you can check in Track order section for seeing the pattern !");
+              }}
+          />
+      </View>
+          </Container>
+      );
 
-  subscribe() {
-    alert('Subscribe address: '+this.state.email);
   }
 }

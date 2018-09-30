@@ -5,5 +5,5 @@
 
 import { AppRegistry } from 'react-native';
 import Main from './src/Main';
-
+import BarcodeApp from './BarcodeApp';
 AppRegistry.registerComponent('Shop', () => Main);

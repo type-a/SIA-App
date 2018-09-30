@@ -45,7 +45,7 @@ export default class SideMenuSecondLevel extends Component {
             <Text style={{color:'white'}}>{item.title}</Text>
           </Body>
           <Right>
-            <Icon name="ios-arrow-forward" />
+            <Icon name="ios-arrow-forward" style={{color:'white'}} />
           </Right>
         </ListItem>
       );

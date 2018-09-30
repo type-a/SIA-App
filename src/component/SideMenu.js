@@ -321,7 +321,7 @@ const menusSecondaryItems = [
     id: 69,
     key: 'orders',
     title: 'Track Order',
-    icon: 'md-camera',
+    icon: 'md-eye',
     key: 'orders'
   },
 
