@@ -25,6 +25,9 @@ Building Two apps one for the consumer which will be then integrated into KrisSh
 
 ### Application Screenshot
 
+![1](SIA-App/Screebshot4.jpeg)
+
+
 ## Go-to market stratergy
 To have a competitive advantage while integrating seamlessly with online shopping in Krisshop, having an all software product with little or no external support is crucial. 
 
