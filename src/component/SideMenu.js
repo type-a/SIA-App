@@ -101,7 +101,7 @@ export default class SideMenu extends Component {
             <Text>{item.title}</Text>
           </Body>
           <Right>
-            <Icon name="ios-arrow-forward" />
+            <Icon name="ios-arrow-forward" style={{color:'white'}} />
           </Right>
         </ListItem>
       );
@@ -183,7 +183,7 @@ const styles = {
   line: {
     width: '100%',
     height: 1,
-    backgroundColor: 'rgba(189, 195, 199, 0.6)',
+    backgroundColor: '#FFFFFF',
     marginTop: 10,
     marginBottom: 18
   }
